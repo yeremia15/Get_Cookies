@@ -32,4 +32,4 @@ This script was developed using the following resources:
 * Puppeteer-extra: https://github.com/thecodechef/puppeteer-extra
 * Sharp: https://sharp.pixelplumbing.com/
 
-Copyright 2024 yeremia15 {Yeremia Yosia Robert}. All Rights Reserved.
+Copyright 2024 @yeremia15 {Yeremia Yosia Robert}. All Rights Reserved.
