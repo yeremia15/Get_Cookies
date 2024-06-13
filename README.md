@@ -22,9 +22,6 @@ The script will launch a headless browser instance, navigate to the website, and
 ## Note
 This script is for educational purposes only and should not be used for malicious activities.
 
-## License
-This repository is licensed under the MIT License.
-
 ## Contributing
 If you want to contribute to this repository, please fork it and submit a pull request.
 
