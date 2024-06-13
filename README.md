@@ -9,12 +9,13 @@ This script uses Puppeteer to automate the browsing process and bypass the waiti
 ## Installation
 To run this script, you need to have Node.js installed on your machine. You also need to install the required dependencies by running the following command:
 
-npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-extra-plugin-adblocker sharp
+```npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-extra-plugin-adblocker sharp```
 
 ## Usage
 To run the script, simply execute the following command:
 
-node index.js {get final cookies} // node index2.js {open and stay on the open web}
+```node index.js``` {get final cookies} // 
+```node index2.js``` {open and stay on the open web}
 
 The script will launch a headless browser instance, navigate to the website, and attempt to bypass the waiting room. If successful, it will obtain the final cookies and print them to the console.
 
